@@ -16,4 +16,4 @@ BSU, Faculty of Sociocultural Communications
 * HTML 5 & CSS 3
 
 ### English
-Intermediate
+Intermediate.
