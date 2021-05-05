@@ -3,7 +3,7 @@
 ### About me
 I create good looking stuff, learn interesting things, love cyberpunk and 80's
 
-:e-mail:  niitokoike@gmail.com
+:e-mail:  anastasia.russkih@icloud.com
 
 ### Study
 BSU, Faculty of Sociocultural Communications
@@ -16,4 +16,4 @@ BSU, Faculty of Sociocultural Communications
 * HTML 5 & CSS 3
 
 ### English
-Intermediate.
+Advanced
